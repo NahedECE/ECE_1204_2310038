@@ -2,7 +2,7 @@
 
 ## **Experiment No: 01**
 
-## **Experiment Name: Write a program in C++ to find area and perimeter of a rectangle. **
+## **Experiment Name: Write a program in C++ to find area and perimeter of a rectangle.**
 
 ## **Submission Date: 24 May, 2025**
 
@@ -59,7 +59,6 @@ int main (){
 <img src="https://github.com/user-attachments/assets/cf75e66f-e7ef-4eee-a70f-5e6b6069e598">
 
 </p>
--------
 
 ## **Experiment No: 02**
 
@@ -128,7 +127,6 @@ int main()
 <img src="https://github.com/user-attachments/assets/bd1d415f-36e3-41d6-9fdc-257e3c7cb62c">
 
 </p>
--------
 
 ## **Experiment No: 03**
 
@@ -188,6 +186,6 @@ int main(){
 <img  src="https://github.com/user-attachments/assets/11a52bb4-8903-4a9e-91e5-c0508abce604">
 
 </p>
--------
+
 
 
