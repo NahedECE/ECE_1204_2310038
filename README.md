@@ -49,7 +49,7 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab Work No. | Title | Link | Codeforces |
 | :---: | :---: | :---: | :---: |
-| 01 | Lab Work_01 | |  |
+| 01 | Lab Work_01 |[Lab Work_01](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_01.md) |  |
 | 02 | Lab Work_02 | |  |
 | 03 | Lab Work_03 | |  |
 | 04 | Lab Work_04 ||  |
