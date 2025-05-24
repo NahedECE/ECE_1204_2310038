@@ -33,7 +33,7 @@ _**Heaven’s Light is Our Guide**_
 ## Submitted by:
 
 ### **Md.Nahedul Islam**
-#### Codeforces: [Nahed_ECE_2310038](https://codeforces.com/profile/Nahed_ECE_2310038)
+#### Codeforces: []()
 #### Roll No: 2310038
 #### Registration No: 1091
 #### Department of Electrical and Computer Engineering
