@@ -1,11 +1,11 @@
-## *Experiment No : 01*
+## **Experiment No : 01**
 
-## *Experiment Name : Program to generate employee bonus*
+## **Experiment Name : Program to generate employee bonus**
 
-## *Submission Date : June 13, 2025*
+## **Submission Date : June 13, 2025**
 
 ## Code :
-C++
+```C++
 #include <iostream>
 using namespace std;
 
@@ -49,8 +49,8 @@ public:
 };
 
 int main() {
-    PermanentEmployee em1("Mustakim", 1001, 50000, 3);
-    ContractEmployee em2("Nubaid", 1002, 40000, 5);
+    PermanentEmployee em1("Mahi", 1001, 50000, 3);
+    ContractEmployee em2("Nahed", 1002, 40000, 5);
 
     HRDepartment hr;
     hr.calculateBonus(em1);
@@ -60,24 +60,24 @@ int main() {
 }
 
 
+```
 
-
-## *Output :* 
-![image](https://github.com/user-attachments/assets/5cbc120a-7d56-4302-965c-3c4ed6a88f64)
-
-
-
+## **Output :** 
+![Image](https://github.com/user-attachments/assets/d56dd575-b55c-4065-b741-d67691d44530)
 
 
 
-## *Experiment No : 02*
 
-## *Experiment Name : Program to generate costs*
 
-## *Submission Date : June 13, 2025*
+
+## **Experiment No : 02**
+
+## **Experiment Name : Program to generate costs**
+
+## **Submission Date : June 13, 2025**
 
 ## Code :
-C++
+```C++
 #include <iostream>
 using namespace std;
 
@@ -120,8 +120,8 @@ public:
 };
 
 int main() {
-    Developer dev("Raj", 101, 200, 4000);     
-    Tester test("Neha", 102, 150, 40);  
+    Developer dev("Rafid", 101, 200, 4000);     
+    Tester test("Shakib", 102, 150, 40);  
 
     ProjectManager pm;
 
@@ -130,22 +130,21 @@ int main() {
 }
 
 
+```
+
+## **Output :** 
+![Image](https://github.com/user-attachments/assets/07bfae82-3bd0-4ace-a9ac-24a86e36d621)
 
 
-## *Output :* 
-![image](https://github.com/user-attachments/assets/9a90c53b-a571-4c0e-9bda-59a959e3a43d)
 
+## **Experiment No : 03**
 
+## **Experiment Name : Program to calculate Prime Numbers Within a Range**
 
-
-## *Experiment No : 03*
-
-## *Experiment Name : Program to calculate Prime Numbers Within a Range*
-
-## *Submission Date : June 13, 2025*
+## **Submission Date : June 13, 2025**
 
 ## Code :
-C++
+```C++
 #include <iostream>
 using namespace std;
 
@@ -196,22 +195,21 @@ int main() {
 }
 
 
+```
+
+## **Output :** 
+![Image](https://github.com/user-attachments/assets/060d9498-4ce7-42a2-9bfe-a378ab17f0eb)
 
 
-## *Output :* 
-![image](https://github.com/user-attachments/assets/94b1930e-b960-407e-8b14-4e762cba429c)
 
+## **Experiment No : 04**
 
+## **Experiment Name : Program to find the factorial of a number.**
 
-
-## *Experiment No : 04*
-
-## *Experiment Name : Program to find the factorial of a number.*
-
-## *Submission Date : June 13, 2025*
+## **Submission Date : June 13, 2025**
 
 ## Code :
-C++
+```C++
 
 #include <iostream>
 using namespace std;
@@ -247,23 +245,23 @@ int main() {
 
 }
 
+```
+
+## **Output :** 
+![Image](https://github.com/user-attachments/assets/996dbbff-d847-402d-8648-fe7568edf8ee)
 
 
-## *Output :* 
-![image](https://github.com/user-attachments/assets/4324d76a-8ffe-4863-916c-b59d7759890a)
 
 
 
+## **Experiment No : 05**
 
+## **Experiment Name : Program to find Volume of a Cube**
 
-## *Experiment No : 05*
-
-## *Experiment Name : Program to find Volume of a Cube*
-
-## *Submission Date : June 13, 2025*
+## **Submission Date : June 13, 2025**
 
 ## Code :
-C++
+```C++
 #include <iostream>
 using namespace std;
 
@@ -294,7 +292,10 @@ int main() {
 }
 
 
+```
+
+## **Output :** 
+![Image](https://github.com/user-attachments/assets/882044f6-7cb3-4608-837b-b59367438993)
 
 
-## *Output :* 
-![image](https://github.com/user-attachments/assets/f2352f53-fcdc-4044-9489-f2af283e8def)
+
