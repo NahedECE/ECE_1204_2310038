@@ -8,36 +8,25 @@
 
 ## **Discussion:**
 
-This experiment demonstrates key object-oriented programming concepts such as **multilevel inheritance**, **virtual functions**, and **runtime polymorphism** in C++. 
+In this program, we used **inheritance** and **polymorphism** to build a simple academic system for RUET. We created three classes: `RUET` (base), `ECE` (intermediate), and `STUDENT` (derived). Each class added more details — like department and CGPA.
 
-The class hierarchy begins with a base class `RUET`, which stores basic student information (`name`, `roll`) and declares virtual methods for input and display. The `ECE` class inherits from `RUET` and adds department-specific behavior. Finally, the `STUDENT` class, which inherits from `ECE`, adds the `cgpa` field and logic to classify students as "Honors Candidates" based on CGPA.
+We used **virtual functions** so that we could store `STUDENT` objects in an array of `RUET*` pointers and still call the correct `display()` method. This is an example of **runtime polymorphism**.
 
-An array of pointers to `RUET` is used to store `STUDENT` objects, showcasing polymorphism — where base class pointers call overridden methods in derived classes. This allows for dynamic method dispatch at runtime.
+We also created a `findTopper()` function to find which student had the highest CGPA. The program takes data for 5 students and shows all their details, along with the topper’s info.
 
-The program also implements a `findTopper()` function that identifies the student with the highest CGPA using the virtual `getCGPA()` method. This demonstrates how polymorphic behavior allows access to derived class data even through base class interfaces.
-
-Memory is dynamically allocated and properly released using `delete` to avoid memory leaks.
-
-In conclusion, this program effectively applies polymorphism and inheritance to build an academic system capable of handling student data flexibly and efficiently.
+This helped us understand how inheritance, virtual functions, and dynamic binding work together in C++.
 
 ----------
 
 ## **Task 1: Polymorphism with Multilevel Inheritance**
 
-Create the following class hierarchy:
-- Base class `RUET`: name, roll, virtual input/display methods
-- Derived class `ECE`: adds dept_name, overrides display
-- Further derived class `STUDENT`: adds CGPA, overrides display
-
-Use **virtual functions** and **an array of RUET pointers**, where each pointer stores a `STUDENT` object. Input data for at least **5 students** and display their details.
+Create a class hierarchy using `RUET`, `ECE`, and `STUDENT`, and store `STUDENT` objects in a `RUET*` array using virtual functions.
 
 ----------
 
 ## **Task 2: Find the Topper**
 
-Create a function `findTopper()` that:
-- Takes the array of `RUET*` (base class pointers)
-- Returns the name and roll number of the student with the highest CGPA
+Create a function `findTopper()` to find the student with the highest CGPA using the same `RUET*` array.
 
 ----------
 
@@ -167,4 +156,3 @@ int main() {
 <img src="https://github.com/user-attachments/assets/your_output_image4">
 
 </p>
-
