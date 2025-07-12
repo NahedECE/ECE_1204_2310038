@@ -153,6 +153,6 @@ int main() {
 ## **Output:**
 <p align="center">
 
-<img src="https://github.com/user-attachments/assets/your_output_image4">
+<img width="1132" height="819" alt="Image" src="https://github.com/user-attachments/assets/39cc0e23-f601-40cd-847e-8796a1f6ade8" />
 
 </p>
