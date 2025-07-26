@@ -33,7 +33,7 @@ _**Heaven’s Light is Our Guide**_
 ## Submitted by:
 
 ### **Md.Nahedul Islam**
-#### Codeforces: [https://codeforces.com/profile/Sifat_404_not_found](Sifat_404_not_found)
+#### Codeforces: [Sifat_404_not_found](https://codeforces.com/profile/Sifat_404_not_found)
 #### Roll No: 2310038
 #### Registration No: 1091
 #### Department of Electrical and Computer Engineering
