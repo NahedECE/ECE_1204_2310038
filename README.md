@@ -49,11 +49,11 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab Work No. | Title | Link | Codeforces |
 | :---: | :---: | :---: | :---: |
-| 01 | Lab Work_01 |[Lab Work_01](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_01.md) |  |
-| 02 | Lab Work_02 |[Lab Work_02](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_02.md) |  |
-| 03 | Lab Work_03 |[Lab Work_03](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_03.md) |  |
-| 04 | Lab Work_04 |[Lab Work_04](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_04.md)|  |
-| 05 | Lab Work_05 |[Lab Work_05](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_05.md) |  |
+| 01 | Lab Work_01 |[Lab Work_01](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_01.md) | 00 |
+| 02 | Lab Work_02 |[Lab Work_02](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_02.md) | 00 |
+| 03 | Lab Work_03 |[Lab Work_03](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_03.md) | 00 |
+| 04 | Lab Work_04 |[Lab Work_04](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_04.md)| 00 |
+| 05 | Lab Work_05 |[Lab Work_05](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_05.md) | 00 |
 | 06 | Lab Work_06 |[Lab Work_06](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_06.md) | 02 |
 | 07 | Lab Work_07 | |  |
 | 08 | Lab Work_08 | |  |
