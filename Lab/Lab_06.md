@@ -1,3 +1,10 @@
+## CodeForces Solved: 02
+
+## Screenshot
+<img width="1132" height="440" alt="image" src="https://github.com/user-attachments/assets/f94f4ff8-4d2e-441a-8ce5-bbe2e2bb3c19" />
+
+
+
 ## **Experiment No: 01**
 
 ## **Experiment Name: Create a class Student with attributes name, roll, and marks. Initialize an array of 5 students and write a program to input and display the data for all students.**
