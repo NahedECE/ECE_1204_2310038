@@ -55,7 +55,7 @@ _**Heaven’s Light is Our Guide**_
 | 04 | Lab Work_04 |[Lab Work_04](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_04.md)| 00 |
 | 05 | Lab Work_05 |[Lab Work_05](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_05.md) | 00 |
 | 06 | Lab Work_06 |[Lab Work_06](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_06.md) | 02 |
-| 07 | Lab Work_07 | |  |
+| 07 | Lab Work_07 |[Lab Work_07](https://github.com/NahedECE/ECE_1204_2310038/blob/main/Lab/Lab_07.md)| 00 |
 | 08 | Lab Work_08 | |  |
 | 09 | Lab Work_09 | |  |
 
