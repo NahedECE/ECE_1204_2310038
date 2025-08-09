@@ -28,21 +28,21 @@ public:
 
     Calculator operator+(Calculator obj) {
         Calculator temp;
-        temp.c = (a + b) + (obj.a + obj.b);
+        temp.c =  (obj.a + obj.b);
         cout << "Addition: " << temp.c << endl;
         return temp;
     }
 
     Calculator operator-(Calculator obj) {
         Calculator temp;
-        temp.c = (a - b) - (obj.a - obj.b);
+        temp.c =  (obj.a - obj.b);
         cout << "Subtraction: " << temp.c << endl;
         return temp;
     }
 
     Calculator operator*(Calculator obj) {
         Calculator temp;
-        temp.c = (a * b) * (obj.a * obj.b);
+        temp.c =  (obj.a * obj.b);
         cout << "Multiplication: " << temp.c << endl;
         return temp;
     }
@@ -50,7 +50,7 @@ public:
     Calculator operator/(Calculator obj) {
         Calculator temp;
         if (b != 0 && obj.b != 0) {
-            temp.c = (a / b) / (obj.a / obj.b);
+            temp.c =  (obj.a / obj.b);
             cout << "Division: " << temp.c << endl;
         } else {
             cout << "Division by zero error!" << endl;
