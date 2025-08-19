@@ -7,11 +7,7 @@
 ------------------------------
 ## Experiment No : 01
 
-## *Experiment Name : Write a C++ program to implement a class called Shape with virtual member *
-functions for calculating area and perimeter. Derive classes such as Circle,
-Rectangle, and Triangle from the Shape class and override virtual functions
-accordingly.(use pure virtual function). *
-
+## Experiment Name : Write a C++ program to implement a class called Shape with virtual member 
 ## Submission Date : August 19, 2025
 
 ## Code :
@@ -121,9 +117,9 @@ int main()
 
 ------------------------------
 
-## *Experiment No : 02 *
+## Experiment No : 02 
 
-## *Experiment Name : Solve diamond shape problem (with virtual keyword). *
+## Experiment Name : Solve diamond shape problem (with virtual keyword). 
 
 ## Submission Date : August 19, 2025
 
@@ -165,7 +161,7 @@ int main() {
 ---------------------------
 ## Experiment No : 02
 
-## *Experiment Name : Solve diamond shape problem (without virtual keyword). *
+## Experiment Name : Solve diamond shape problem (without virtual keyword). 
 
 ## Submission Date : August 19, 2025
 
@@ -214,7 +210,7 @@ int main() {
 -------------------------
 ## Experiment No : 04
 
-## *Experiment Name : Create an abstract class Device. *
+## Experiment Name : Create an abstract class Device. 
 
 ## Submission Date : August 19, 2025
 
