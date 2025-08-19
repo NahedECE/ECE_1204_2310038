@@ -1,13 +1,13 @@
 ## CodeForces Solved: 18
 
-## Screenshot
+## Screenshot :
 
 <img width="967" height="873" alt="image" src="https://github.com/user-attachments/assets/583f822a-abe4-4bb8-968f-61fbeb2a52cf" />
 
 ------------------------------
 ## Experiment No : 01
 
-## *Experiment Name : Write a C++ program to implement a class called Shape with virtual member
+## *Experiment Name : Write a C++ program to implement a class called Shape with virtual member *
 functions for calculating area and perimeter. Derive classes such as Circle,
 Rectangle, and Triangle from the Shape class and override virtual functions
 accordingly.(use pure virtual function). *
@@ -15,7 +15,7 @@ accordingly.(use pure virtual function). *
 ## Submission Date : August 19, 2025
 
 ## Code :
-C++```
+```C++
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -112,7 +112,7 @@ int main()
     cout << "Perimeter of Triangle = " << shape->perimeter() << endl;
     delete shape;
 }
-
+```
 ------------
 
 ## Output : 
@@ -128,7 +128,7 @@ int main()
 ## Submission Date : August 19, 2025
 
 ## Code :
-C++
+```C++
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -156,7 +156,7 @@ int main() {
     obj.setC(5); 
     cout << obj.value;
 }
-
+```
 ---------------
 
 ## Output : 
@@ -170,7 +170,7 @@ int main() {
 ## Submission Date : August 19, 2025
 
 ## Code :
-C++
+```C++
 #include <bita/stdc++.h>
 using namespace std;
 
@@ -206,7 +206,7 @@ int main() {
 
 
 }
-
+```
 ------------------
 ## Output : 
 <img width="1266" height="260" alt="image" src="https://github.com/user-attachments/assets/cc70e588-5442-489e-9139-ea2f457b414a" />
@@ -219,7 +219,7 @@ int main() {
 ## Submission Date : August 19, 2025
 
 ## Code :
-C++
+```C++
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -257,13 +257,7 @@ int main() {
     
     s.info();  
 }
+```
 ------------------
 ## Output : 
 <img width="1261" height="301" alt="image" src="https://github.com/user-attachments/assets/ebba2daa-ba74-4770-b0ab-7baccc887c08" />
-
-
-
-
-------------------
-## Output : 
-
